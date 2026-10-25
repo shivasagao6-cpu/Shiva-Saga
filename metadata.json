@@ -1,0 +1,6 @@
+{
+  "name": "Shiva Sagar — Fintech UGC Creator",
+  "description": "Voice-led UGC portfolio and project builder for fintech and finance apps by Shiva Sagar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
